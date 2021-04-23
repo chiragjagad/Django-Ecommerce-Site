@@ -26,6 +26,7 @@ h6 {
   background-color: #fff;
   border-radius: 4px;
   padding: 10px;
+  
 }
 
 .thumbnail {
@@ -38,6 +39,7 @@ h6 {
 
 .product {
   border-radius: 0 0 4px 4px;
+
 }
 
 .bg-dark {
@@ -439,10 +441,12 @@ footer .footer-bottom {
   }
 }
 
+
 .product-card {
   animation: 1s ease-out 0s 1 grow;
   margin-bottom: 25px;
   transition: 0.5s;
+
 }
 
 .product-card:hover {
