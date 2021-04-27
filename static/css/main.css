@@ -440,11 +440,7 @@ footer .footer-bottom {
 }
 
 .product-card {
-  animation: 1s ease-out 0s 1 grow;
+  animation: 0.5s ease-out 0s 1 grow;
   margin-bottom: 25px;
   transition: 0.5s;
-}
-
-.product-card:hover {
-  transform: scale(1.05);
 }
